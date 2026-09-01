@@ -1,5 +1,4 @@
 # Factorial Calculator
-
 A simple Python program that calculates the **factorial of a given number**. This project demonstrates basic Python programming concepts such as user input, arithmetic operations, loops, and conditional logic.
 
 ## 📌 Project Description
